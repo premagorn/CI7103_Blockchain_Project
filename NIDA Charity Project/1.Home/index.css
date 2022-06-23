@@ -1,0 +1,550 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:948px;
+  min-width:200px;
+  max-width:1680px;
+  margin:auto;
+  background-color:#ffffff;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Group-15{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:0px;
+  width:1680px;
+  min-width:1680px;
+  height:948px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:948px;
+}
+.Group-15-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Frame-1{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:0px;
+  width:1680px;
+  min-width:1680px;
+  height:948px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:948px;
+}
+.Frame-1-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Group-14{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:0px;
+  width:1680px;
+  min-width:1680px;
+  height:948px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:948px;
+}
+.Group-14-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Body-C{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:0px;
+  width:1680px;
+  min-width:1680px;
+  height:948px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:948px;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Body-C-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Ellipse-2{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:749px;
+  width:237px;
+  min-width:237px;
+  height:220px;
+  margin-top:22px;
+  margin-bottom:706px;
+  min-height:220px;
+  content:url(assets/images/Ellipse_2.png);
+}
+.Ellipse-2-outer{
+  pointer-events:none;
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.Ellipse-1{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:577px;
+  width:38px;
+  min-width:38px;
+  height:38px;
+  margin-top:-562px;
+  margin-bottom:524px;
+  min-height:38px;
+  content:url(assets/images/Ellipse_1.png);
+}
+.Ellipse-1-outer{
+  pointer-events:none;
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.Group{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:73px;
+  width:686px;
+  min-width:686px;
+  height:36px;
+  margin-top:-562px;
+  margin-bottom:526px;
+  min-height:36px;
+}
+.Group-outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Campaign--1-{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:0px;
+  width:686px;
+  min-width:686px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:36px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:700;
+  font-size:24px;
+  letter-spacing:-0.36px;
+  line-height:36px;
+}
+.Campaign--1--outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Rectangle-28--Stroke{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:35px;
+  width:762px;
+  min-width:762px;
+  height:259px;
+  margin-top:-474px;
+  margin-bottom:215px;
+  min-height:259px;
+  content:url(assets/images/Rectangle_28__Stroke_.png);
+}
+.Rectangle-28--Stroke-outer{
+  pointer-events:none;
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.Rectangle-28{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:35px;
+  width:762px;
+  min-width:762px;
+  height:259px;
+  margin-top:-474px;
+  margin-bottom:215px;
+  min-height:259px;
+  content:url(assets/images/Rectangle_28.png);
+}
+.Rectangle-28-outer{
+  pointer-events:none;
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.Group-4{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:840px;
+  width:552px;
+  min-width:552px;
+  height:232px;
+  margin-top:-474px;
+  margin-bottom:242px;
+  min-height:232px;
+}
+.Group-4-outer{
+  pointer-events:none;
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.q--------------------1{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:0px;
+  width:552px;
+  min-width:552px;
+  margin-top:0px;
+  margin-bottom:195.04000000000002px;
+  min-height:36.96px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:700;
+  font-size:24px;
+  letter-spacing:-0.36px;
+  line-height:36px;
+}
+.q--------------------1-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.q-------------------{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:0px;
+  width:530px;
+  min-width:530px;
+  margin-top:-170px;
+  margin-bottom:10px;
+  min-height:160px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 0.8);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:18px;
+  letter-spacing:-0.27px;
+  line-height:30px;
+}
+.q--------------------outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.Button{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:156px;
+  width:240px;
+  min-width:240px;
+  height:42px;
+  margin-top:-42px;
+  margin-bottom:0px;
+  min-height:42px;
+}
+.Button-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Learn-more{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:7.916666666666667%;
+  width:84.58333333333333%;
+  height:42.857142857142854%;
+  margin-top:5%;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:15px;
+  letter-spacing:-0.225px;
+  line-height:19px;
+}
+.Learn-more-outer{
+  pointer-events:none;
+  z-index:17;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-2{
+  position:relative;
+  z-index:16;
+  pointer-events:auto;
+  cursor:pointer;
+  background-color:rgba(24, 160, 251, 1);
+  border-radius:6px;
+  width:100%;
+  height:100%;
+}
+.Rectangle-2-outer{
+  pointer-events:none;
+  z-index:16;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-2-url{
+  text-decoration:none;
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+}
+.Button-1{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:0px;
+  width:118.36px;
+  min-width:118.36px;
+  height:41px;
+  margin-top:-41px;
+  margin-bottom:0px;
+  min-height:41px;
+}
+.Button-1-outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Learn-more-1{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:33.79520108144643%;
+  width:33.79520108144643%;
+  height:43.90243902439025%;
+  margin-top:9.293680297397769%;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:15px;
+  letter-spacing:-0.225px;
+  line-height:19px;
+}
+.Learn-more-1-outer{
+  pointer-events:none;
+  z-index:14;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-2-1{
+  position:relative;
+  z-index:13;
+  pointer-events:auto;
+  cursor:pointer;
+  background-color:rgba(24, 160, 251, 1);
+  border-radius:6px;
+  width:100%;
+  height:100%;
+}
+.Rectangle-2-1-outer{
+  pointer-events:none;
+  z-index:13;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-2-1-url{
+  text-decoration:none;
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+}
+.Rectangle-16{
+  position:relative;
+  z-index:24;
+  pointer-events:auto;
+  cursor:pointer;
+  min-width:263px;
+  min-height:44px;
+  background-color:rgba(235, 218, 69, 1);
+  border-radius:60px;
+  width:100%;
+  height:100%;
+}
+.Rectangle-16-outer{
+  pointer-events:none;
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.Rectangle-16-url{
+  text-decoration:none;
+  margin-left:735px;
+  width:263px;
+  height:44px;
+  margin-top:-689px;
+  margin-bottom:645px;
+}
+.q---------{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:801px;
+  width:132px;
+  min-width:132px;
+  margin-top:-686px;
+  margin-bottom:648px;
+  min-height:38px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(42, 70, 184, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:700;
+  font-size:24px;
+  line-height:29px;
+}
+.q----------outer{
+  pointer-events:none;
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.Rectangle-27{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:253px;
+  width:370px;
+  min-width:370px;
+  height:42px;
+  margin-top:-564px;
+  margin-bottom:522px;
+  min-height:42px;
+  border:1px solid rgba(178, 178, 178, 1);
+  box-sizing:border-box;
+  border-radius:60px;
+}
+.Rectangle-27-outer{
+  pointer-events:none;
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.Search-for-files--pl{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:269px;
+  width:302px;
+  min-width:302px;
+  margin-top:-554px;
+  margin-bottom:533px;
+  min-height:21px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(209, 209, 209, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:700;
+  font-size:18px;
+  line-height:22px;
+}
+.Search-for-files--pl-outer{
+  pointer-events:none;
+  z-index:22;
+  position:relative;
+  display:flex;
+}
